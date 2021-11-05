@@ -1,0 +1,4 @@
+flask
+flask_discord
+discord
+requests
